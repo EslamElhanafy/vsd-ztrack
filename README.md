@@ -416,6 +416,7 @@ Rerun with alignment:
 ## Minimal citation text
 
 If this tool supports a publication, cite this publication
+
 Elhanafy, E., Akbari Ahangar, A., Roth, R., Gamal El-Din, T. M., Bankston, J. R., & Li, J. (2025). The differential impacts of equivalent gating-charge mutations in voltage-gated sodium channels. Journal of General Physiology, 157(2), e202413669. https://doi.org/10.1085/jgp.202413669
 
 ## Repository description
