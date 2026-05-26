@@ -2,6 +2,8 @@
 
 VSD-ZTrack is a command-line analysis tool for tracking residue displacement along a selected Cartesian axis in molecular-dynamics trajectories. It was designed for voltage-sensor domains, where S4 gating-charge residues are often compared with the hydrophobic constriction site, but it can also analyze any user-defined residue set.
 
+<img width="1536" height="864" alt="9bd0e7b5-58f1-4bdf-9ec4-68afa79bba16-0" src="https://github.com/user-attachments/assets/d2ca6b9b-6565-4a78-b6a6-4bc1433d4e52" />
+
 The default analysis reports the position of each target residue relative to a reference residue:
 
 ```text
@@ -413,7 +415,8 @@ Rerun with alignment:
 
 ## Minimal citation text
 
-If this tool supports a publication, cite the repository and report the version or commit hash used for the analysis.
+If this tool supports a publication, cite this publication
+Elhanafy, E., Akbari Ahangar, A., Roth, R., Gamal El-Din, T. M., Bankston, J. R., & Li, J. (2025). The differential impacts of equivalent gating-charge mutations in voltage-gated sodium channels. Journal of General Physiology, 157(2), e202413669. https://doi.org/10.1085/jgp.202413669
 
 ## Repository description
 
